@@ -1,7 +1,6 @@
 import {
     mobile,
     backend,
-    creator,
     web,
     javascript,
     typescript,
@@ -15,10 +14,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    bisonaide,
+    abb,
+    komment,
+    clarusway,
     carrent,
     jobit,
     tripguide,
@@ -52,10 +51,6 @@ import {
     {
       title: "Backend Developer",
       icon: backend,
-    },
-    {
-      title: "Content Creator",
-      icon: creator,
     },
   ];
   
@@ -116,9 +111,9 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Frotend Developer",
+      company_name: "Abb",
+      icon: abb,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
@@ -129,11 +124,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      title: "Software Engineer",
+      company_name: "Komment",
+      icon: komment,
+      iconBg: "#151819",
+      date: "September 2022 - Feb 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,8 +138,8 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "Clarusway",
+      icon: clarusway,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
@@ -156,8 +151,8 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      company_name: "Bisonaide",
+      icon: bisonaide,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
