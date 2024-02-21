@@ -125,7 +125,7 @@ const experiences = [
   },
   {
     title: "Frotend Developer",
-    company_name: "Abb",
+    company_name: "ABB Garjan Group",
     icon: abb,
     iconBg: "#fff",
     date: "March 2023 - September 2023",
