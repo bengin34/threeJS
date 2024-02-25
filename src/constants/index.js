@@ -168,27 +168,29 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I had the pleasure of working with Burak at Komment, and it's rare to come across a standout personality like him. Burak brought an exceptional level of professionalism, creativity, and dedication to our team.\n\nFrom Day 1, Burak impressed me with his passion to learn and his relentless drive to not just meet, but exceed expectations. His ability to tackle workplace challenges with a positive attitude was an inspiration to his colleagues. Whether it was a complex project or a tight deadline, he consistently delivered high-quality work that significantly contributed to our company's success.\n\n Besides being a skilled software developer, Burak is a team player with a contagious enthusiasm that elevates everyone around him. His work ethic is exemplary, and he frequently went above and beyond the call of duty to help his teammates, improve his skillset and contribute to the success of the company.\n\nAny future employer would be fortunate to have burak on their team. I have full confidence that he will continue to make a profound impact wherever he goes, and I wholeheartedly recommend him for any role he chooses to pursue.",
+    name: "Adi Singh",
+    designation: "CEO",
+    company: "Komment",
+    image: "https://www.komment.ai/static/media/Adi_S.6b299001464698291985.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "The experience of working with Burak is very valuable. He is a steadfast person in solving problems and finding very principled solutions. Burak is fully aware of his personal time management and I think he is a person that every company wishes to have such a person in their team.",
+    name: "Reza Hessar",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Agent Sphere",
+    image:
+      "https://media.licdn.com/dms/image/D4D03AQEsj_iisCLr2w/profile-displayphoto-shrink_400_400/0/1708343525252?e=1714608000&v=beta&t=9qq9vShblB0uG2jSt9eQ268GZzf44cEZhit6uZcnTig",
+  },
+  {
+    testimonial:
+      "I had the pleasure of working with Engin on several projects that required collaboration, and I can say that he has a unique talent for developing empathy with his team members and stakeholders, which allows him to create win-win solutions for everyone involved.\n\nWhat sets Engin apart from his peers is his exceptional communication and leadership skills. He can effectively communicate with people from diverse backgrounds and can lead teams to success. Engin's intelligence, analytical skills, and enthusiasm for every task he undertakes are exceptional. His determination, coupled with his interpersonal skills, makes him an ideal candidate for leadership roles.\n\nEngin is a natural team player and is always willing to work in a team environment. He also possesses the ability to lead his team to success, earning admiration and respect from his peers. He strongly believes in sharing knowledge and understands that it enhances its value.\n\n Overall, Engin is an excellent candidate, and I am confident that Engin will be a great addition to any organization looking for a talented, enthusiastic, and driven team player.",
+    name: "Mehmet Kerse",
+    designation: "Advisor",
+    company: "United Nations",
+    image:
+      "https://media.licdn.com/dms/image/D4E03AQEO7mLihxnSpw/profile-displayphoto-shrink_400_400/0/1702661291195?e=1714608000&v=beta&t=IrU5Bf0Y1E3M2jOzgHr0E7awQmmLfoIPTeq8YUwBRtU",
   },
 ];
 

@@ -19,7 +19,7 @@ const TestimonalCard = ({
     >
       <p className="text-white font-black text-[48px]">"</p>
 
-      <div className="mt-1">
+      <div className="mt-1" style={{ whiteSpace: 'pre-wrap' }}>
         <p>{testimonial}</p>
 
         <div className="mt-7 flex justify-between items-center gap-1">
@@ -29,7 +29,7 @@ const TestimonalCard = ({
             </p>
             <p className="mt-1 text-secondary text-[12px]"></p>
             <p>
-              {designation} of {company}
+              {designation} @ {company}
             </p>
           </div>
           <img
